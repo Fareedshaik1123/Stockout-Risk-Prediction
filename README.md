@@ -31,5 +31,5 @@ Explore ensemble methods or deep learning models.
 Develop a dashboard for real-time monitoring.
 
 **Acknowledgements**
-Kaggle for the Rossmann dataset.
+Kaggle for the Rossmann dataset. (https://www.kaggle.com/competitions/rossmann-store-sales/data)
 Open source libraries: pandas, scikit-learn, LightGBM, etc.
